@@ -1,0 +1,234 @@
+@media only screen and (max-width: 600px) {
+    #nav {
+          !important;
+    }
+}
+
+#nav {
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+
+.donate {
+    background-color: rgb(31, 132, 199);
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.service {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.read {
+    width: 175px;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.donation {
+    padding-top: 40px;
+    background-color: rgb(188, 223, 106);
+    display: flex;
+    justify-content: center;
+    width: 1150px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.longBlack {
+    border-radius: 5px;
+    width: 220px;
+    height: 50px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: 0;
+}
+
+.butt {
+    border-radius: 5px;
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    border: 0;
+}
+
+.long {
+    border-radius: 5px;
+    width: 210px;
+    height: 50px;
+    background-color: white;
+    border: 0;
+}
+
+.green {
+    border-radius: 5px;
+    width: 140px;
+    height: 50px;
+    background-color: rgb(116, 160, 50);
+    border: 0;
+}
+
+.smallCard {
+    text-align: center;
+}
+
+.imgCard {
+    border-radius: 10px;
+}
+
+.imgCard:hover {
+    transform: scale(1.1);
+}
+
+#cardOne {
+    width: 350px;
+    height: 250px;
+}
+
+.BigCard {
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+
+
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+}
+
+.smallinfo {
+    text-align: left;
+}
+
+.slide {
+    width: 1300px;
+
+}
+
+.media {
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+}
+
+.mediaNext {
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+}
+
+.cardButt {
+    width: 325px;
+    background-color: rgb(107, 209, 107);
+    border: 0;
+    border-radius: 5px;
+    height: 35px;
+}
+
+.FootButt {
+    background-color: rgb(107, 209, 107);
+    ;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+}
+
+.last {
+    display: flex;
+    justify-content: center;
+
+}
+
+.nobutt {
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.lastImg {
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+
+.blur {
+    filter: blur(2px);
+    width: 1450px;
+    height: 250px;
+}
+
+.email {
+    padding-left: 10px;
+    width: 500px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+
+.sub {
+    border-radius: 5px;
+    width: 100px;
+    height: 50px;
+    background-color: white;
+}
+
+.sub:hover {
+    transform: scale(1.1);
+}
+
+.social {
+    width: 30px;
+    height: 30px;
+    background-color: rgb(49, 46, 46);
+
+
+}
+
+.socialButt {
+    border: 0;
+    background-color: rgb(49, 46, 46);
+
+}
+
+.social:hover {
+    transform: scale(1.5);
+}
+
+.foot {
+    display: flex;
+    text-align: left;
+    color: white;
+}
+
+#bigfoot {
+    display: flex;
+    padding-top: 50px;
+}
+
+#allfoot {
+    background-color: rgb(49, 46, 46);
+    height: 500px;
+
+}
+
+#white {
+    color: white;
+}
